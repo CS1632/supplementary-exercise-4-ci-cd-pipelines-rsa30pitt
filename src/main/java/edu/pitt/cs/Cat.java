@@ -24,7 +24,7 @@ public class Cat {
 	 * usage. Only leave on during JUnit testing.
 	 */
 
-	public static boolean bugInjectionOn = true;
+	public static boolean bugInjectionOn = false;
 
 	/**
 	 * Constructor - creates a new Cat object Note there are no checks that this ID
