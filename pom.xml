@@ -4,11 +4,7 @@
 
   <groupId>io.github.wonsunahn</groupId>
   <artifactId>cs1632-cicd-pipelines-rsa30</artifactId>
-<<<<<<< HEAD
-  <version>1.0</version>
-=======
   <version>2.0</version>
->>>>>>> 3072ab531f1ce7c523222ad42039b29e991adb67
   <packaging>jar</packaging>
 
   <name>cs1632-cicd-junit</name>
@@ -41,25 +37,18 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-<<<<<<< HEAD
-      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
-    </repository>
-  </distributionManagement>
-
-=======
       <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-rsa30pitt</url>
     </repository>
   </distributionManagement>
   
->>>>>>> 3072ab531f1ce7c523222ad42039b29e991adb67
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <jacoco-maven-plugin.version>0.8.11</jacoco-maven-plugin.version>
     <maven-javadoc-plugin.version>3.6.2</maven-javadoc-plugin.version>
-    <sonar.organization>cs1632sonar.organization>
-    <sonar.host.url>https://sonarcloud.iosonar.host.url>
+    <sonar.organization>cs1632</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
