@@ -4,7 +4,7 @@
 
   <groupId>io.github.wonsunahn</groupId>
   <artifactId>cs1632-cicd-pipelines-rsa30</artifactId>
-  <version>1.0</version>
+  <version>2.0</version>
   <packaging>jar</packaging>
 
   <name>cs1632-cicd-junit</name>
